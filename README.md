@@ -1,13 +1,20 @@
 <div align="center">
+
+If you’re not using **Dark Mode**, you know what to do , FIRST. 😎
+
+</div>
+
+
+<br>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Muhammad+Abdullah;Full-Stack+Web+Developer;Full-Stack+App+Developer;Building+Scalable+Products;MERN+%2B+Next.js+Specialist;Driven+by+Logic+%26+Design" alt="Typing SVG" />
+
 </div>
 
 <h1 align="center">I Am Great at What I Do</h1>
 <div align="center">
-  <b>This is how it looks like, when</b>
-  <img src="https://img.shields.io/badge/passion-yellow?style=for-the-badge" alt="Passion">
-  <b>becomes</b>
-  <img src="https://img.shields.io/badge/profession-green?style=for-the-badge" alt="Profession">
+  <img width="667" height="32" alt="image" src="https://github.com/user-attachments/assets/eb94f9da-adef-4b31-99a5-1449857a04e9" />
 </div>
 
 
@@ -21,16 +28,28 @@ I am a **passionate Full-Stack Developer** who bridges the gap between complex b
 * ⚡ **Philosophy:** Discipline, Consistency, and a purpose-driven approach rooted in faith.
 * 🌱 **Learning:** Advanced Cloud Architecture (Docker/AWS), AI Agents, and Large Language Models (LLMs).
 
----
+<br>
 
 ## 🛠️ The Arsenal
 *The technologies I rely on to design, build, and ship real-world software.*
 
 ### 🎨 Frontend & Design
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,mui,vite,figma&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,mui,vite,figma&perline=12" />
+ <div>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png" alt="react_query" width="58" height="58">
+     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" alt="react_query" width="58" height="58">
+   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="react_query" width="58" height="58">
+ 
+   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lucide.png" alt="react_query" width="58" height="58">
+</div>
+
 
 ### 🧠 Backend & Logic
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,firebase,supabase,postman&perline=10" />
+<div>
+   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="react_query" width="58" height="58">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="react_query" width="58" height="58">
+</div>
 
 ### ⚙️ DevOps & Infrastructure
 <img src="https://skillicons.dev/icons?i=docker,jenkins,netlify&perline=10" />
@@ -41,9 +60,13 @@ I am a **passionate Full-Stack Developer** who bridges the gap between complex b
 
 ## 📊 Github Stats
 </br>
+
 <div align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=code-with-pro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph"  />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-pro&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+  
 </div>
 
 <br>
