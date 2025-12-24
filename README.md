@@ -26,7 +26,7 @@ I am a **passionate Full-Stack Developer** who bridges the gap between complex b
 * 🔭 **Working on:** High-performance E-commerce platforms & AI-integrated web tools.
 * 🧠 **Experience:** Specialized in building **complex calculation editors**, SaaS architectures, and scalable data solutions.
 * ⚡ **Philosophy:** Discipline, Consistency, and a purpose-driven approach rooted in faith.
-* 🌱 **Learning:** Advanced Cloud Architecture (Docker/AWS), AI Agents, and Large Language Models (LLMs).
+* 🌱 **Learning:** Advanced Cloud Architecture (Docker/AWS), AI Agents, and System Design.
 
 <br>
 
