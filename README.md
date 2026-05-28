@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 If you’re not using **Dark Mode**, you know what to do, FIRST  . 😎.
 
