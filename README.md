@@ -1,6 +1,6 @@
 <div align="center">
 
-If you’re not using **Dark Mode**, you know what to do, FIRST  . 😎 . 
+If you’re not using **Dark Mode**, you know what to do, FIRST  . 😎. 
 
 </div>
 
